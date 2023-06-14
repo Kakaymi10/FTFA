@@ -1,0 +1,30 @@
+.about_div{
+    font-family: 'Hanalei Fill', cursive;
+    text-align: center;
+    border-radius: 0 0 0px 100px;
+    padding-top: 2em;
+    border: 8px solid rgba(0, 0, 255, 0.7);
+    border-top: none;
+    border-right: none;
+    color: white;
+}
+.about_title{
+    margin-top: 0;
+    color: blue;
+}
+.about_see_more{
+    width: 90%;
+    border: none;
+    background-color: rgb(0, 0, 255);
+    border:1px yellow solid;
+    margin-bottom: 4em;
+    height: 3.5em;
+    border-radius: 40px;
+    color: yellow;
+    font-size: 19px;
+    margin-top: 1em;
+}
+.about_description{
+    font-size: 19px;
+    padding: 4px;
+}

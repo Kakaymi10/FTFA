@@ -1,0 +1,73 @@
+.App_Banner {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Hanalei Fill', cursive;
+    padding: 0;
+    color: white;
+    padding-top: 1em;
+    align-items: center;
+    background-color: rgba(0, 0, 255, 0.7);
+    border-radius: 0 0 100px 0px;
+  }
+nav{
+    background-color: rgba(255, 255, 255, 0.9);
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    width: 90%;
+    height: 5em;
+    position: fixed;
+    margin: 0 auto;
+    box-shadow: 0px 0px 11px 6px rgba(194, 17, 17, 0.1);
+  }
+.logo{
+    width: 90px;
+    height: 60px;
+    object-fit: cover;
+    mix-blend-mode: darken;
+  }
+.logo-title{
+    font-size: 10px;
+    font-weight: 500;
+  }
+.fed{
+    color: blue;
+  }
+.tchne{
+    color: #c5c51b;
+  }
+.football{
+    color: red;
+  }
+  .banner_title {
+    font-size: 38px;
+    font-weight: 700;
+    text-align: left;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 1.3em;
+    padding-bottom: 0.6em;
+    margin-top: 2.3em;
+  }
+  .descr_ban{
+    width: 90%;
+    text-align: left;
+    margin: 0 auto;
+    font-size: 20px;
+    margin-bottom: 1.5em;
+  }
+  .banner_button{
+    width: 90%;
+    border: none;
+    background-color: rgba(255, 0, 0, 0.7);
+    border:1px yellow solid;
+    margin-bottom: 4em;
+    height: 3.5em;
+    border-radius: 40px;
+    color: yellow;
+    font-size: 19px;
+  }
+  .chad{
+    color: yellow;
+  }
