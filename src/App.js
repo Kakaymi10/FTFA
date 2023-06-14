@@ -23,7 +23,7 @@ function App() {
         loaded={particlesLoaded}
         options={{
                   "fullScreen": false,
-                  "background": { "image": "linear-gradient(19deg, #FFDD00 0%, #FFC100 100%)" },
+                  "background": { "color": "#ffffff" },
                   "particles": {
                     "number": { "value": 10, "density": { "enable": true, "value_area": 600 } },
                     "color": { "value": "#0000ff" },
